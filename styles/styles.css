@@ -1,0 +1,40 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    width: 100%;
+}
+
+/* Header section */
+.header{
+    height: 800px;
+    padding: 10px;
+    background: rgb(3,3,65);
+background: linear-gradient(170deg, rgba(3,3,65,1) 0%, rgba(53,9,121,1) 46%, rgba(196,0,255,1) 100%);
+}
+.my-name{
+    color: #6666ff;
+}
+.meet-me-btn{
+    color: white;
+    background-color: blue;
+}
+.left-0{
+    position: relative;
+    top: 0px;
+}
+
+.meet-me{
+    position: relative;
+    top: -150px;
+    border-radius: 10px;
+    height: 500px;
+    background-color: #2A086D;
+}
+
+
+/* offer section */
+.offer{
+    background-color: #ECECEC;
+    height: 200px;
+}
