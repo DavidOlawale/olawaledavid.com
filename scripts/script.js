@@ -1,5 +1,5 @@
 var options = {
-    strings: ['Front end developer', 'Back end developer', 'Full stack end developer'],
+    strings: ['Front end developer', 'Back end developer', 'Full stack developer'],
     typeSpeed: 40
   };
   
