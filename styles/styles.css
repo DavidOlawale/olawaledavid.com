@@ -7,11 +7,12 @@ body{
 
 /* Header section */
 .header{
-    height: 800px;
+    height: 560px;
     padding: 10px;
     background: rgb(3,3,65);
 background: linear-gradient(170deg, rgba(3,3,65,1) 0%, rgba(53,9,121,1) 46%, rgba(196,0,255,1) 100%);
 }
+
 .my-name{
     color: #6666ff;
 }
@@ -26,7 +27,7 @@ background: linear-gradient(170deg, rgba(3,3,65,1) 0%, rgba(53,9,121,1) 46%, rgb
 
 .meet-me{
     position: relative;
-    top: -150px;
+    top: -90px;
     border-radius: 10px;
     height: 500px;
     background-color: #2A086D;
@@ -36,4 +37,10 @@ background: linear-gradient(170deg, rgba(3,3,65,1) 0%, rgba(53,9,121,1) 46%, rgb
 /* offer section */
 .offer{
     background-color: #ECECEC;
+}
+.svg-icon{
+    color: #efefef;
+}
+.text-blue{
+    color: #041860;
 }
